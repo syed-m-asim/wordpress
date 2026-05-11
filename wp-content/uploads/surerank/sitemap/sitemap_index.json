@@ -1,0 +1,30 @@
+[
+    {
+        "link": "http:\/\/localhost:82\/wordpress\/post-type-cartflows_step-sitemap-1.xml",
+        "updated": "2026-05-11T14:26:52+00:00"
+    },
+    {
+        "link": "http:\/\/localhost:82\/wordpress\/post-type-elementor_library-sitemap-1.xml",
+        "updated": "2026-05-11T14:26:52+00:00"
+    },
+    {
+        "link": "http:\/\/localhost:82\/wordpress\/post-type-page-sitemap-1.xml",
+        "updated": "2026-05-11T14:26:52+00:00"
+    },
+    {
+        "link": "http:\/\/localhost:82\/wordpress\/post-type-post-sitemap-1.xml",
+        "updated": "2026-05-11T14:26:52+00:00"
+    },
+    {
+        "link": "http:\/\/localhost:82\/wordpress\/post-type-product-sitemap-1.xml",
+        "updated": "2026-05-11T14:26:52+00:00"
+    },
+    {
+        "link": "http:\/\/localhost:82\/wordpress\/taxonomy-type-category-sitemap-1.xml",
+        "updated": "2026-05-11T14:26:52+00:00"
+    },
+    {
+        "link": "http:\/\/localhost:82\/wordpress\/taxonomy-type-product_cat-sitemap-1.xml",
+        "updated": "2026-05-11T14:26:52+00:00"
+    }
+]
